@@ -4,6 +4,6 @@
 
 Source and compiled bins for the buffer overflow project @ www.nosociety.de
 
-Part 1: Basic overflow techniques without stack protection in [german](https://www.nosociety.de/it-security:blog:buffer_overflow_x64) and [english](https://www.nosociety.de/en:it-security:blog:buffer_overflow_x64)
-Part 2: Overflow with activated BX bit and some ROP in [german](https://www.nosociety.de/it-security:blog:buffer_overflow_x64-2) and [english](https://www.nosociety.de/en:it-security:blog:buffer_overflow_x64-2)
+Part 1: Basic overflow techniques without stack protection in [german](https://www.nosociety.de/it-security:blog:buffer_overflow_x64) and [english](https://www.nosociety.de/en:it-security:blog:buffer_overflow_x64)\
+Part 2: Overflow with activated BX bit and some ROP in [german](https://www.nosociety.de/it-security:blog:buffer_overflow_x64-2) and [english](https://www.nosociety.de/en:it-security:blog:buffer_overflow_x64-2)\
 Part 3: in progress...
