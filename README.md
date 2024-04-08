@@ -22,3 +22,5 @@ Overflow with activated NX bit and some ROP
 Overflow with activated ASLR
 * 🇩🇪 [german](https://www.nosociety.de/it-security:blog:buffer_overflow_x64-3)
 * 🇺🇸 [english](https://www.nosociety.de/en:it-security:blog:buffer_overflow_x64-3)
+
+#nosoc
